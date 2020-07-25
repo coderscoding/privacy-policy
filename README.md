@@ -1,1 +1,1 @@
-# qrcodegenerator
+# Privacy Policy Generator
